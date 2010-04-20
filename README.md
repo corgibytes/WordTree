@@ -2,7 +2,9 @@
 
 ## What is WordTree?
 
-The best way to describe it is software as art. WordTree was developed in collaboration with Ann Ford as part of her Master's of Fine Arts (Graphic Design) exhibition at Virginia Commonwealth University. Ann Ford is now a professor at Virginia State University and the driving force behind Chamber's Design.
+The best way to describe it is software as art. 
+
+WordTree was developed in collaboration with Ann Ford as part of her Master's of Fine Arts (Graphic Design) exhibition at Virginia Commonwealth University. Ann Ford is now a [professor at Virginia State University](http://www.vsu.edu/pages/2111.asp?item=12127&channel={4C16EAE9-CF29-4DD0-B977-188455B2E403}) and the driving force behind [Chamber's Design](http://www.chambers-design.com/).
 
 ## How do I use it?
 
