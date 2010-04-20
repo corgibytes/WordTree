@@ -26,4 +26,4 @@ The result is a very fluid and interactive typographic illustration.
 
 ## How can I get it?
 
-You can download it from the downloads section: http://github.com/mscottford/WordTree/downloads
+You can download it from the [downloads section](http://github.com/mscottford/WordTree/downloads).
